@@ -17,7 +17,7 @@ function allclear() {
 
 function enter_value(value) {
     if(oper == "" && result == "") {
-        num1 += value;
+        num1+=value;
         show_screen(num1);
     }
     else{
